@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  {{ partial "head.html" . }}
+  <body>
+    {{ partial "body-top" . }}
+    <main>
+
+      <!-- About -->
+      {{ partial "about.html" . }}
+
+      <!-- Collaborators -->
+      {{ partial "collaborators.html" . }}
+
+      <!-- Blog -->
+      {{ partial "blog.html" . }}
+
+    </main>
+    {{ partial "footer.html" . }}
+    {{ partial "body-bottom" . }}
+  </body>
+</html>

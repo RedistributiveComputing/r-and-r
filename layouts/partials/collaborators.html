@@ -1,0 +1,20 @@
+{{ $directory := "content/" }}
+{{ $filename := "collaborators.md" }}
+{{ if (where (readDir $directory) "Name" $filename) }}
+  <section class="collaborators" id="collaborators">
+    <div class="container middle-xs">
+      <div class="row center-xs">
+        <div class="col-xs-12">
+          <h1>{{ with $.Site.GetPage "page" "collaborators" }}{{ .Title }}{{ end }}</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 middle-xs">
+          {{ with $.Site.GetPage "page" "collaborators" }}
+            {{ .Content }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}
