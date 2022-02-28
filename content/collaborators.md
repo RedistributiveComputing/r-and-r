@@ -1,7 +1,7 @@
 ---
 title: "Collaborators"
 date: 2022-01-13T21:29:05-06:00
-draft: true
+draft: false
 ---
 **peer production organizations:**\
 *working actively on generalizable methods and techniques*\
