@@ -10,7 +10,7 @@ disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-  tagline = "growing the repertoire of community-led climate justice (testing testing)..."
+  tagline = "growing the repertoire of community-led climate justice (testing)..."
   author = "list folks involved"
   description = "insert desc"
   logoBig = "/images/r-r-test2.png"
