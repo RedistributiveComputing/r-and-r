@@ -1,9 +1,9 @@
-+++
-title = "Repair and Redress: Data for Environmental Accountability"
-date = 2022-03-04T16:41:43-06:00
-description = ""
-draft = false
-+++
+---
+title : "Repair and Redress: Data for Environmental Accountability"
+date : 2022-03-04T16:41:43-06:00
+description : ""
+draft : false
+---
 
 Please join us on Friday March 18th and Saturday March 19th for “Repair and Redress: Data for Environmental Accountability”.  This series of workshops will feature representatives from three cutting-edge organizations dedicated to data for environmental accountability –[Environmental Data and Governance Initiative](https://envirodatagov.org/), [Public Lab](https://publiclab.org/), [Little Sis](https://littlesis.org/) (descriptions below) – who will show and discuss tools, methods, and approaches to environmental advocacy and community engagement. 
 
