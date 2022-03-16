@@ -9,7 +9,7 @@ Please join us on Friday March 18th and Saturday March 19th for “Repair and Re
 
 Students will engage skills ranging from technical (e.g. network visualizations and Python-based Jupyter notebooks) to listening and dialogue skills used in community engagement.  All backgrounds and skill levels are welcome.  Participants may join for a single workshop or for all three. 
 
-Please fill out this [form](https://forms.gle/jygtWTSyF4DjWUPK8) to apply by March 15th at 11:59 PM. Confirmation will be sent by March 16th via a Google Calendar invitation with the location and time for each workshop.
+Please fill out this [form](https://forms.gle/jygtWTSyF4DjWUPK8) to apply. Confirmation will be sent via a email Google Calendar invitation with the location and time for each workshop.
 
 Involved Organizations: 
 
