@@ -6,7 +6,7 @@ draft : false
 ---
 
 **Friday 5:30pmEST Panel Zoom Link**
-[Panel Zoom Link]()https://cornell.zoom.us/j/93629723374?pwd=WXJrZFpTdURLQnBJaWJXMmtmTGFyQT09)
+[Panel Zoom Link](https://cornell.zoom.us/j/93629723374?pwd=WXJrZFpTdURLQnBJaWJXMmtmTGFyQT09)
 
 Please join us on Friday March 18th and Saturday March 19th for “Repair and Redress: Data for Environmental Accountability”.  This series of workshops will feature representatives from three cutting-edge organizations dedicated to data for environmental accountability –[Environmental Data and Governance Initiative](https://envirodatagov.org/), [Public Lab](https://publiclab.org/), [Little Sis](https://littlesis.org/) (descriptions below) – who will show and discuss tools, methods, and approaches to environmental advocacy and community engagement. 
 
